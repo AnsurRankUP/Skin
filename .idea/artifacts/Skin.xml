@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Skin">
+    <output-path>$PROJECT_DIR$/../../rankup/plugins</output-path>
+    <root id="archive" name="Skin.jar">
+      <element id="module-output" name="SkinPlugin" />
+    </root>
+  </artifact>
+</component>
