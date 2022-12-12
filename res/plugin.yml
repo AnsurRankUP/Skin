@@ -1,0 +1,7 @@
+name: "Skin"
+version: '0.1'
+main: 'rankup.ansur.skin.Main'
+api-version: 1.8
+authors: [Jhoopa, AnsurRankup]
+website: 'https://github.com/AnsurRankUP'
+description: 'Plugin de Skins.'
